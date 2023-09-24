@@ -1,0 +1,77 @@
+.logo-Judô {
+    width: 4.8rem;
+    height: 4.8rem;
+    margin: 0;
+    margin-right: 12rem;
+    position: fixed;
+}
+
+.logo-afiliada-Judô {
+    width: 5rem;
+    height: 5rem;
+    margin: 0;
+    position: relative;
+    margin-top: 0rem;
+    margin-left: 0;
+}
+
+.news {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.news2 {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.selo {
+    width: 5rem;
+    height: 5rem;
+    margin: 0;
+    position: relative;
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
+}
+
+.stop-ef {
+    text-decoration: none;
+}
+
+.Coluna-de-PDFs {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+ul {
+    color: white;
+}
+
+/* #ajustandoImagens {
+height: 300px;
+width: 229px;
+background-position: center;
+background-size: cover;
+} */
+
+.destaque {
+    font-size: 20px;
+}
+
+
+/*
+<p id="countdown"></p>
+*/
+
+#countdown {
+    font-size: 30px;
+    color: white;
+}
